@@ -10,6 +10,7 @@
 - 自动化
 - 项目复盘
 
-## 示例内容
+## 内容索引
 
-- [AI 工作流示例](/tech/ai-workflow)
+- [AI 工作流](/tech/ai-workflow)
+- [工程师原则](/tech/engineering-principles)

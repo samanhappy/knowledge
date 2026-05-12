@@ -10,6 +10,8 @@
 - 年度回顾
 - 个人系统
 
-## 示例内容
+## 内容索引
 
-- [习惯系统示例](/growth/habit-system)
+- [成长认知与复利思维](/growth/mindset)
+- [工作与领导力](/growth/leadership)
+- [习惯系统](/growth/habit-system)
