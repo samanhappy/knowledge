@@ -29,41 +29,45 @@ export default defineConfig({
     sidebar: {
       '/growth/': [
         {
-          text: '成长',
+          text: '🌱 成长',
           items: [
-            { text: '分类首页', link: '/growth/' },
-            { text: '习惯系统示例', link: '/growth/habit-system' }
+            { text: '总览', link: '/growth/' },
+            { text: '成长认知与复利思维', link: '/growth/mindset' },
+            { text: '工作与领导力', link: '/growth/leadership' },
+            { text: '习惯系统', link: '/growth/habit-system' }
           ]
         }
       ],
       '/life/': [
         {
-          text: '生活',
+          text: '🏠 生活',
           items: [
-            { text: '分类首页', link: '/life/' },
-            { text: '居家系统示例', link: '/life/home-os' }
+            { text: '总览', link: '/life/' },
+            { text: '人生哲学', link: '/life/philosophy' },
+            { text: '居家系统', link: '/life/home-os' }
           ]
         }
       ],
       '/tech/': [
         {
-          text: '技术',
+          text: '⚡ 技术',
           items: [
-            { text: '分类首页', link: '/tech/' },
-            { text: 'AI 工作流示例', link: '/tech/ai-workflow' }
+            { text: '总览', link: '/tech/' },
+            { text: 'AI 工作流', link: '/tech/ai-workflow' },
+            { text: '工程师原则', link: '/tech/engineering-principles' }
           ]
         }
       ],
       '/invest/': [
         {
-          text: '投资',
+          text: '📈 投资',
           items: [
-            { text: '分类首页', link: '/invest/' },
-            { text: '投资框架示例', link: '/invest/investing-framework' }
+            { text: '总览', link: '/invest/' },
+            { text: '投资框架', link: '/invest/investing-framework' }
           ]
         }
       ],
-      '/': [
+      '/workflow': [
         {
           text: '开始使用',
           items: [
