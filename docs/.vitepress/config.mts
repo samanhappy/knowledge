@@ -1,9 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 const repo = 'https://github.com/samanhappy/knowledge'
-const repositoryName = process.env.GITHUB_REPOSITORY?.split('/')[1]
-const isGithubActions = process.env.GITHUB_ACTIONS === 'true'
-const base = isGithubActions && repositoryName ? `/${repositoryName}/` : '/'
+// 使用自定义域名（knowledge.samanhappy.com），站点根为 /
+// 如需切回 samanhappy.github.io/knowledge/，把 base 改回 '/knowledge/' 即可
+const base = '/'
 
 export default defineConfig({
   lang: 'zh-CN',
