@@ -26,4 +26,12 @@ title: 生活
     <div class="t">居家系统</div>
     <div class="d">把家当作一套可运维的小型操作系统。</div>
   </a>
+  <a class="sk-article" href="./mindfulness">
+    <div class="t">正念与佛学</div>
+    <div class="d">无常、无我、觉知——从进化设计中觉醒。</div>
+  </a>
+  <a class="sk-article" href="./decision-thinking">
+    <div class="t">理性决策思维</div>
+    <div class="d">贝叶斯思维、认知偏误与决策纪律。</div>
+  </a>
 </div>

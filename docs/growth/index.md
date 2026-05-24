@@ -30,4 +30,24 @@ title: 成长
     <div class="t">习惯系统</div>
     <div class="d">让好行为自动发生、坏行为自动消失的设计。</div>
   </a>
+  <a class="sk-article" href="./behavior-change">
+    <div class="t">行为改变与认知觉醒</div>
+    <div class="d">微习惯、大脑三层结构与认知偏误防御。</div>
+  </a>
+  <a class="sk-article" href="./communication">
+    <div class="t">沟通与表达</div>
+    <div class="d">SCQA 框架、非暴力沟通与倾听的艺术。</div>
+  </a>
+  <a class="sk-article" href="./parenting">
+    <div class="t">育儿与教育</div>
+    <div class="d">看见、情感引导、游戏力与适度养育。</div>
+  </a>
+  <a class="sk-article" href="./content-creation">
+    <div class="t">内容创作方法论</div>
+    <div class="d">平台运营、文案写作与数据驱动迭代。</div>
+  </a>
+  <a class="sk-article" href="./self-analysis">
+    <div class="t">阅读画像与自我分析</div>
+    <div class="d">基于 2171 条划线的阅读图谱分析。</div>
+  </a>
 </div>

@@ -19,7 +19,15 @@ title: 投资
 
 <div class="sk-articles">
   <a class="sk-article" href="./investing-framework">
-    <div class="t">投资框架示例</div>
-    <div class="d">一份可演进的个人投资判断框架草稿。</div>
+    <div class="t">投资框架总览</div>
+    <div class="d">决策检查清单与持仓逻辑。</div>
+  </a>
+  <a class="sk-article" href="./value-investing">
+    <div class="t">价值投资体系</div>
+    <div class="d">能力圈、逆向思维、复利耐心与风险防御。</div>
+  </a>
+  <a class="sk-article" href="./macro-cycles">
+    <div class="t">宏观周期与世界秩序</div>
+    <div class="d">债务周期、帝国兴衰与周期定位。</div>
   </a>
 </div>

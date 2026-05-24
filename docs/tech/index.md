@@ -26,4 +26,12 @@ title: 技术
     <div class="t">工程师原则</div>
     <div class="d">关于设计、质量与协作的长期主义心智。</div>
   </a>
+  <a class="sk-article" href="./software-craft">
+    <div class="t">软件工程精进</div>
+    <div class="d">从抽象思维到架构演进，从测试驱动到持续交付。</div>
+  </a>
+  <a class="sk-article" href="./engineering-leadership">
+    <div class="t">技术领导力</div>
+    <div class="d">从工程师到管理者：赋能、信任与机制。</div>
+  </a>
 </div>
