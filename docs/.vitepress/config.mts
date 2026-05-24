@@ -34,7 +34,11 @@ export default defineConfig({
             { text: '总览', link: '/growth/' },
             { text: '成长认知与复利思维', link: '/growth/mindset' },
             { text: '工作与领导力', link: '/growth/leadership' },
-            { text: '习惯系统', link: '/growth/habit-system' }
+            { text: '习惯系统', link: '/growth/habit-system' },
+            { text: '行为改变与认知觉醒', link: '/growth/behavior-change' },
+            { text: '沟通与表达', link: '/growth/communication' },
+            { text: '育儿与教育', link: '/growth/parenting' },
+            { text: '内容创作方法论', link: '/growth/content-creation' }
           ]
         }
       ],
@@ -44,7 +48,9 @@ export default defineConfig({
           items: [
             { text: '总览', link: '/life/' },
             { text: '人生哲学', link: '/life/philosophy' },
-            { text: '居家系统', link: '/life/home-os' }
+            { text: '居家系统', link: '/life/home-os' },
+            { text: '正念与佛学', link: '/life/mindfulness' },
+            { text: '理性决策思维', link: '/life/decision-thinking' }
           ]
         }
       ],
@@ -54,7 +60,9 @@ export default defineConfig({
           items: [
             { text: '总览', link: '/tech/' },
             { text: 'AI 工作流', link: '/tech/ai-workflow' },
-            { text: '工程师原则', link: '/tech/engineering-principles' }
+            { text: '工程师原则', link: '/tech/engineering-principles' },
+            { text: '软件工程精进', link: '/tech/software-craft' },
+            { text: '技术领导力', link: '/tech/engineering-leadership' }
           ]
         }
       ],
@@ -63,7 +71,9 @@ export default defineConfig({
           text: '📈 投资',
           items: [
             { text: '总览', link: '/invest/' },
-            { text: '投资框架', link: '/invest/investing-framework' }
+            { text: '投资框架', link: '/invest/investing-framework' },
+            { text: '价值投资体系', link: '/invest/value-investing' },
+            { text: '宏观周期与世界秩序', link: '/invest/macro-cycles' }
           ]
         }
       ],
