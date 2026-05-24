@@ -38,7 +38,8 @@ export default defineConfig({
             { text: '行为改变与认知觉醒', link: '/growth/behavior-change' },
             { text: '沟通与表达', link: '/growth/communication' },
             { text: '育儿与教育', link: '/growth/parenting' },
-            { text: '内容创作方法论', link: '/growth/content-creation' }
+            { text: '内容创作方法论', link: '/growth/content-creation' },
+            { text: '阅读画像与自我分析', link: '/growth/self-analysis' }
           ]
         }
       ],
