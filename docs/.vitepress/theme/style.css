@@ -117,18 +117,20 @@ body {
   background: linear-gradient(180deg, var(--sk-violet), var(--sk-cyan));
 }
 
-/* Links — animated underline */
+/* Links — subtle animated underline */
 .VPDoc a:not(.header-anchor):not(.VPButton) {
   text-decoration: none;
   background-image: linear-gradient(90deg, var(--sk-violet), var(--sk-cyan));
-  background-size: 100% 1.5px;
+  background-size: 0% 1px;
   background-repeat: no-repeat;
   background-position: 0 100%;
-  transition: background-size 0.25s ease, color 0.2s ease;
+  padding-bottom: 1px;
+  transition: background-size 0.3s ease, color 0.2s ease;
 }
 
 .VPDoc a:not(.header-anchor):not(.VPButton):hover {
   color: var(--sk-violet);
+  background-size: 100% 1px;
 }
 
 /* Code blocks: subtle border, no harsh chrome */
